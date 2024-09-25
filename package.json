@@ -1,0 +1,17 @@
+{
+  "name": "software.contraband.editor",
+  "version": "1.0.0",
+  "description": "Editor tools for Unity",
+  "displayName": "Editor",
+  "unity": "2022.3",
+  "type": "framework",
+  "hideInEditor": false,
+  "author": {
+    "name": "Sam Taseff",
+    "email": "sgttaseff1@sheffield.ac.uk",
+    "url": "https://contraband.software/"
+  },
+  "keywords": [
+    "Editor"
+  ]
+}
